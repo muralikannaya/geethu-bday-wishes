@@ -13,6 +13,7 @@
   #img1 {
     width: 92%;
     height: 63%;
+    box-shadow: 0 2.5rem 2rem -2rem hsl(200 50% 20% / 40%)
   }
 
   h1{
