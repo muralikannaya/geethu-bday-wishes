@@ -1,0 +1,21 @@
+#fstblock{
+    display: grid;
+    grid-template-columns: 50% 50% ;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto ;
+    /* grid-gap: 10px;
+    background-color: #2196F3;
+    padding: 10px; */
+  }
+
+  #img1 {
+    width: 92%;
+    height: 63%;
+  }
+
+  h1{
+    color: whitesmoke;
+  }
+  
